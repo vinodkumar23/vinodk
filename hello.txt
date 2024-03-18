@@ -2,5 +2,6 @@ include<studio.sh>
 void main()
 {
 printf("hello",a);
+end;
 }
 
